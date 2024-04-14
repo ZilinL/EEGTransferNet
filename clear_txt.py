@@ -1,0 +1,1 @@
+open('EEGNetLog.txt', 'w').close()

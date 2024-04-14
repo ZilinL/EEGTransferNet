@@ -1,0 +1,15 @@
+# Backbone
+backbone: eegtransfernet
+
+
+# Optimizer related
+lr: 5e-3
+weight_decay: 5e-4
+lr_scheduler: True
+lr_gamma: 0.0003
+lr_decay: 0.75
+momentum: 0.9
+
+# Training related
+n_epoch: 200
+batch_size: 22

@@ -1,0 +1,1 @@
+open('./EEGTransferNet_ERN/EEGTransferNet_ERN_AccLog.txt', 'w').close()
